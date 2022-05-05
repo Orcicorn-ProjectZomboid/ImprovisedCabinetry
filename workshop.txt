@@ -1,6 +1,6 @@
 version=1
-id=2804086977
-title=Improvised Cabinetry (Beta)
+id=
+title=Improvised Cabinetry
 description=Congratulations, you've survived the end of the world and you're stable and safe in your base. There is only one problem, your cabinets don't match your wallpaper and that's really embarrassing. You can go out and try to find the right type of cabinet but that could be risky and wouldn't it just make a lot more sense to craft some cabinets?
 description=
 description=Introducing Improvised Cabinetry. With over 40 new recipes and 25 different types of Cabinets and Counters you can play homemaker all day long and finally get your house looking just the way you want it to.  More than half the recipes are automatically learned and just require the appropriate carpentry skill while some of the more industrial counters will need to be taught.
