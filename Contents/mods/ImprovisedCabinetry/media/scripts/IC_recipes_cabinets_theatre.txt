@@ -1,0 +1,67 @@
+module ImprovisedCabinetry {
+    imports {
+        Base
+    }
+
+    /* Theatre Counter ------------------------------------------ */
+    recipe ICMakeCabinetTheater1 {
+        keep Hammer,
+        keep Saw/GardenSaw,
+        Plank=2,
+        Woodglue=2,
+        Nails=8,
+        ImprovisedCabinetry.WoodPanel=2,
+        PaintBlue,
+        PaintWhite,
+        Result:Moveables.location_entertainment_theatre_01_15,
+        SkillRequired:Woodwork=7,
+        Time: 240.0,
+        Category: Cabinets,
+        AnimNode: BuildLow,
+        Prop1: Hammer,
+        Sound: Hammering,
+        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        NeedToBeLearn:True,
+    }
+
+    recipe ICMakeCabinetTheater2 {
+        keep Hammer,
+        keep Saw/GardenSaw,
+        Plank=2,
+        Woodglue=2,
+        Nails=8,
+        ImprovisedCabinetry.WoodPanel=2,
+        PaintBlue,
+        PaintWhite,
+        Result:Moveables.location_entertainment_theatre_01_14,
+        SkillRequired:Woodwork=7,
+        Time: 240.0,
+        Category: Cabinets,
+        AnimNode: BuildLow,
+        Prop1: Hammer,
+        Sound: Hammering,
+        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        NeedToBeLearn:True,
+    }
+
+    recipe ICMakeCabinetTheater3 {
+        keep Hammer,
+        keep Saw/GardenSaw,
+        Plank=2,
+        Woodglue=2,
+        Nails=8,
+        ImprovisedCabinetry.WoodPanel=2,
+        PaintBlue,
+        PaintWhite,
+        Result:Moveables.location_entertainment_theatre_01_16,
+        SkillRequired:Woodwork=7,
+        Time: 240.0,
+        Category: Cabinets,
+        AnimNode: BuildLow,
+        Prop1: Hammer,
+        Sound: Hammering,
+        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        NeedToBeLearn:True,
+    }
+
+}

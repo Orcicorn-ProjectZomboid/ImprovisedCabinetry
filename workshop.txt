@@ -1,0 +1,6 @@
+version=1
+id=2804086977
+title=Improvised Cabinetry (Beta)
+description=Improvised Cabinetry Beta Test
+tags=Build 41;Building;Items
+visibility=unlisted
