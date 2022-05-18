@@ -18,7 +18,7 @@ function ICAddRecipesToExistingPlayers(id, player)
         player:learnRecipe("ICMakeCabinetRestaurant5");
         player:learnRecipe("ICMakeCabinetRestaurant5Corner");
         player:learnRecipe("ICMakeCabinetRestaurant3");
-        player:learnRecipe("ICMakeCabinetRestaurant3Counter");
+        player:learnRecipe("ICMakeCabinetRestaurant3Corner");
     end
 
     -- If the Improvised Glass mod is installed, You get Glass Cabinets
