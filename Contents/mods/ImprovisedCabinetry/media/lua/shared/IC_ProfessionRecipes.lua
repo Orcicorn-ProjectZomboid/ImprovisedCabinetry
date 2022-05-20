@@ -25,9 +25,11 @@ function ICAddRecipesToExistingPlayers(id, player)
     if getActivatedMods():contains("ImprovisedGlass") then
         player:learnRecipe("ICMakeCabinetImprovisedGlass1");
         player:learnRecipe("ICMakeCabinetImprovisedGlass1Corner");
+        player:learnRecipe("ICMakeCabinetImprovisedGlass2");
     else 
         player:getKnownRecipes():remove("ICMakeCabinetImprovisedGlass1");
         player:getKnownRecipes():remove("ICMakeCabinetImprovisedGlass1Corner");
+        player:getKnownRecipes():remove("ICMakeCabinetImprovisedGlass2");
     end
 end
 

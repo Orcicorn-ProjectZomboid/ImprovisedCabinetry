@@ -61,7 +61,8 @@ Recipe_EN = {
     /* IC_recipes_cabinets_crossover_glass */
     Recipe_ICMakeCabinetImprovisedGlass1 = "Make Glass Display",
     Recipe_ICMakeCabinetImprovisedGlass1Corner = "Make Glass Display Corner",
-    
+    Recipe_ICMakeCabinetImprovisedGlass2 = "Make Glass Theatre Counter",
+
     /* IC_recipes_parts */
     Recipe_ICMakeWoodPanel = "Craft Wood Panel",
     Recipe_ICMakeSmallHinge = "Craft Cabinet Hinges",
