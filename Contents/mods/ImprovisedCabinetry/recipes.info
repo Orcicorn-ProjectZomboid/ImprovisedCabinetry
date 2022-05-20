@@ -15,6 +15,7 @@ CARPENTRY 2
 									ICMakeCabinet2Corner				Free
 	Birch							ICMakeCabinet3						Free
 									ICMakeCabinet3Corner				Free
+									ICMakeCabinet3Float					Free
 	Oak								ICMakeCabinet4						Free
 									ICMakeCabinet4Corner				Free
 CARPENTRY 3
@@ -53,6 +54,8 @@ CARPENTRY 7
 METALWORKING 7
 	Glass Counter					ICMakeCabinetImprovisedGlass1		Free			If ImprovisedGlass installed
 									ICMakeCabinetImprovisedGlass1Corner	Free			If ImprovisedGlass installed
+	Theatre Glass Counter			ICMakeCabinetImprovisedGlass2		Free			If ImprovisedGlass installed
+
 CARPENTRY 8
 	Bar Counter (Black)				ICMakeCabinetBar1					Free
 									ICMakeCabinetBar1Corner				Free
