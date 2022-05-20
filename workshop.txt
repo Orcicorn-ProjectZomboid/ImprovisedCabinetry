@@ -1,5 +1,5 @@
 version=1
-id=
+id=2810378872
 title=Improvised Cabinetry
 description=Congratulations, you've survived the end of the world and you're stable and safe in your base. There is only one problem, your cabinets don't match your wallpaper and that's really embarrassing. You can go out and try to find the right type of cabinet but that could be risky and wouldn't it just make a lot more sense to craft some cabinets?
 description=
@@ -8,10 +8,10 @@ description=
 description=Staying in and hiding at home is just a wee bit better with improvised cabinetry.  Finally your counters match and you are no longer bringing dishonor to your family. Sure the zeds don't seem to care but who asked them anyway?
 description=
 description=[h1]TL;DR:[/h1]
-description=You can now craft Counters and Cabinets. They utilize Wood Panels and Cabinet hinges which are crafted with easily acquirable resources. Door hinges randomly spawn in the world as well instead of just being on doors. A ton of cabinets are available by default, but a few industrial cabinets require you to read the magazine to learn them. 
+description=You can now craft Counters and Cabinets. They utilize Wood Panels and Cabinet hinges which are crafted with easily acquirable resources. Door hinges randomly spawn in the world as well instead of just being on doors. A ton of cabinets are available by default, but a few industrial cabinets require you to read the magazine to learn them.
 description=
 description=[h1]Recipe List[/h1]
-description=An entire directory of the available recipes is listed in the [url=#]pinned discussions thread[/url]
+description=An entire directory of the available recipes is listed in the [url=https://steamcommunity.com/workshop/filedetails/discussion/2810378872/3278069673177338878/]pinned discussions thread[/url]
 description=
 description=[h1]Magazine List[/h1]
 description=There is just one Magazine that will teach you all the industrial cabinet recipes. It is called "[b]Industrial Cabinetry Vol. 1[/b]" and spawns in all the usual places you would expect magazines to be.
@@ -30,8 +30,8 @@ description=  [*] Small Door Hinges spawn in tool areas (Can also be crafted)
 description=  [*] Wood Panels can spawn in carpentry areas (Can also be crafted)
 description=[/list]
 description=
-description=[h1]Bonus Cabinet: Glass Counter2[/h1]
-description=If you have [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2800412098]Improvised Glass[/url] installed Two Glass counters becomes available for crafting at Metal Working 7.
+description=[h1]Bonus Cabinet: Glass Counters[/h1]
+description=If you have [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2800412098]Improvised Glass[/url] installed Two types of Glass counters becomes available for crafting at Metal Working 7.
 description=
 description=[h1]Regarding Crafting Cabinets[/h1]
 description=It is strongly recommended that you craft then install 1 or 2 cabinets at a time. The game has an issue where when you craft more than you can carry it will drop them to the ground. However, cabinets were never designed to be crafted or dropped so they don't have a world model and are completely invisible outside of the loot window. If you craft more than you can carry you will end up with invisible cabinets on the ground. You can still pick them up from the loot window but they can be hard to find.
@@ -49,4 +49,4 @@ description=
 description=[h1]Like what I'm doing?[/h1]
 description=[img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/like_favorite.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/kofi.png[/img][/url]
 tags=Build 41;Building;Items
-visibility=unlisted
+visibility=public
