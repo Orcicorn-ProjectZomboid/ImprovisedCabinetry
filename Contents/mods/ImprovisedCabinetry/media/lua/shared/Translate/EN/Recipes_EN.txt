@@ -7,6 +7,7 @@ Recipe_EN = {
     Recipe_ICMakeCabinet2Corner = "Make Wooden Counter Corner",
     Recipe_ICMakeCabinet3 = "Make Birchwood Counter",
     Recipe_ICMakeCabinet3Corner = "Make Birchwood Counter Corner",
+    Recipe_ICMakeCabinet3Float = "Make Birchwood Counter (Floating)",
     Recipe_ICMakeCabinet4 = "Make Oak Counter",
     Recipe_ICMakeCabinet4Corner = "Make Oak Counter Corner",
     Recipe_ICMakeCabinet5 = "Make Dark Counter",
@@ -60,7 +61,7 @@ Recipe_EN = {
     /* IC_recipes_cabinets_crossover_glass */
     Recipe_ICMakeCabinetImprovisedGlass1 = "Make Glass Display",
     Recipe_ICMakeCabinetImprovisedGlass1Corner = "Make Glass Display Corner",
-
+    
     /* IC_recipes_parts */
     Recipe_ICMakeWoodPanel = "Craft Wood Panel",
     Recipe_ICMakeSmallHinge = "Craft Cabinet Hinges",

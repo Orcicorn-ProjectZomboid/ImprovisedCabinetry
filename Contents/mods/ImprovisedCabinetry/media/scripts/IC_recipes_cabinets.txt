@@ -115,6 +115,24 @@ module ImprovisedCabinetry {
         OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
+    recipe ICMakeCabinet3Float {
+        keep Hammer,
+        keep Saw/GardenSaw,
+        Plank=2,
+        Woodglue,
+        Nails=4,
+        ImprovisedCabinetry.WoodPanel=2,
+        ImprovisedCabinetry.SmallHinge=2,
+        Result: Moveables.fixtures_counters_01_27,
+        SkillRequired:Woodwork=2,
+        Time: 180.0,
+        Category:Cabinets,
+        AnimNode: BuildLow,
+        Prop1: Hammer,
+        Sound: Hammering,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
+    }
+
     /* Oak Counter ---------------------------------------------- */
     recipe ICMakeCabinet4 {
         keep Hammer,
