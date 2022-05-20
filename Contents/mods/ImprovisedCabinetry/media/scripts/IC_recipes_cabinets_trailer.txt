@@ -19,7 +19,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     /* Trailer float */
@@ -38,7 +38,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     /* trailer with fridge */
@@ -57,6 +57,6 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 }

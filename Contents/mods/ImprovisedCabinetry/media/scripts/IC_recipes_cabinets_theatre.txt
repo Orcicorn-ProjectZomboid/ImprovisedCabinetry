@@ -20,7 +20,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
         NeedToBeLearn:True,
     }
 
@@ -40,7 +40,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
         NeedToBeLearn:True,
     }
 
@@ -60,7 +60,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
         NeedToBeLearn:True,
     }
 

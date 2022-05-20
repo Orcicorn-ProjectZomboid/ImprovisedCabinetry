@@ -19,7 +19,7 @@ module ImprovisedCabinetry {
         Prop2: MetalBar,
         Sound: BlowTorch,
         NeedToBeLearn: True,
-        OnGiveXP:ImprovisedCabinetry_XPMetalCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPMetalCabinet,
     }
 
     recipe ICMakeCabinetImprovisedGlass1Corner {
@@ -38,7 +38,7 @@ module ImprovisedCabinetry {
         Prop2: MetalBar,
         Sound: BlowTorch,
         NeedToBeLearn: True,
-        OnGiveXP:ImprovisedCabinetry_XPMetalCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPMetalCabinet,
     }
 
 }

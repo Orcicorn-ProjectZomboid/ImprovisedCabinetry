@@ -15,7 +15,7 @@ module ImprovisedCabinetry {
         Prop1: Source=1,
         Prop2: Plank,
         Sound:Sawing,
-        OnGiveXP:ImprovisedCabinetry_XPWoodPanel,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodPanel,
     }
 
     recipe ICMakeSmallHinge {
@@ -28,7 +28,7 @@ module ImprovisedCabinetry {
         Prop1: Source=1,
         Prop2: Hinge,
         Sound:Sawing,
-        OnGiveXP:ImprovisedCabinetry_XPMetalHinge,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPMetalHinge,
     }
 
 }

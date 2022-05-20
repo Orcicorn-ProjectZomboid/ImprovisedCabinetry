@@ -21,7 +21,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     recipe ICMakeCabinet1Corner {
@@ -40,7 +40,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     /* Wooden Counter ------------------------------------------- */
@@ -59,7 +59,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     recipe ICMakeCabinet2Corner {
@@ -76,7 +76,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     /* Birchwood Counter ---------------------------------------- */
@@ -95,7 +95,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     recipe ICMakeCabinet3Corner {
@@ -112,7 +112,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     /* Oak Counter ---------------------------------------------- */
@@ -131,7 +131,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     recipe ICMakeCabinet4Corner {
@@ -148,7 +148,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     /* Dark Counter --------------------------------------------- */
@@ -168,7 +168,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     recipe ICMakeCabinet5Corner {
@@ -186,7 +186,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     /* Green Counter -------------------------------------------- */
@@ -206,7 +206,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     recipe ICMakeCabinet6Corner {
@@ -224,7 +224,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     /* White Counter -------------------------------------------- */
@@ -244,7 +244,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     recipe ICMakeCabinet7Corner {
@@ -262,7 +262,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     } 
 
     /* Bathroom Cabinets ---------------------------------------- */
@@ -281,6 +281,6 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 }

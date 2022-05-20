@@ -32,7 +32,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
     recipe ICMakeCabinetBar1 {
@@ -50,7 +50,7 @@ module ImprovisedCabinetry {
         AnimNode: BuildLow,
         Prop1: Hammer,
         Sound: Hammering,
-        OnGiveXP:ImprovisedCabinetry_XPWoodCabinet,
+        OnGiveXP:Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet,
     }
 
 }
