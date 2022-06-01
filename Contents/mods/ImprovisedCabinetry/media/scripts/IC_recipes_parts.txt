@@ -8,7 +8,7 @@ module ImprovisedCabinetry {
         Plank=2,
         Woodglue,
         Result: ImprovisedCabinetry.WoodPanel,
-        SkillRequired: Carpentry=2,
+        SkillRequired: Woodwork=2,
         Category: Cabinets,
         Time: 120.0,
         AnimNode: SawLog,

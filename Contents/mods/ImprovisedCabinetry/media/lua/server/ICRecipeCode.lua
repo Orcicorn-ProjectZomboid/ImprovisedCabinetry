@@ -1,5 +1,5 @@
 -- Give XP on Completion of Cabinets
-function Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabine(recipe, ingredients, result, player)
+function Recipe.OnGiveXP.ImprovisedCabinetry_XPWoodCabinet(recipe, ingredients, result, player)
     player:getXp():AddXP(Perks.Woodwork, 10);
 end
 
