@@ -5,8 +5,8 @@ module ImprovisedCabinetry {
 
     /* Modern Counter ------------------------------------------- */
     recipe ICMakeCabinet1 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -25,8 +25,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinet1Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -45,8 +45,8 @@ module ImprovisedCabinetry {
 
     /* Wooden Counter ------------------------------------------- */
     recipe ICMakeCabinet2 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -63,8 +63,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinet2Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -81,8 +81,8 @@ module ImprovisedCabinetry {
 
     /* Birchwood Counter ---------------------------------------- */
     recipe ICMakeCabinet3 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -99,8 +99,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinet3Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -116,8 +116,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinet3Float {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue,
         Nails=4,
@@ -135,8 +135,8 @@ module ImprovisedCabinetry {
 
     /* Oak Counter ---------------------------------------------- */
     recipe ICMakeCabinet4 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -153,8 +153,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinet4Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -171,8 +171,8 @@ module ImprovisedCabinetry {
 
     /* Dark Counter --------------------------------------------- */
     recipe ICMakeCabinet5 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -190,8 +190,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinet5Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -209,8 +209,8 @@ module ImprovisedCabinetry {
 
     /* Green Counter -------------------------------------------- */
     recipe ICMakeCabinet6 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -228,8 +228,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinet6Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -247,8 +247,8 @@ module ImprovisedCabinetry {
 
     /* White Counter -------------------------------------------- */
     recipe ICMakeCabinet7 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -266,8 +266,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinet7Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -285,8 +285,8 @@ module ImprovisedCabinetry {
 
     /* Bathroom Cabinets ---------------------------------------- */
     recipe ICMakeCabinetBathroom {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue,
         Nails=4,

@@ -5,8 +5,8 @@ module ImprovisedCabinetry {
 
     /* Sunstar Model --------------------------------------------- */
     recipe ICMakeCabinetMotel1 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -24,8 +24,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetMotel2 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue,
         Nails=4,

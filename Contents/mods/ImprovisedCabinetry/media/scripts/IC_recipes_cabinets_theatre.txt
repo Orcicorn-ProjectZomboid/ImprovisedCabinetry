@@ -5,8 +5,8 @@ module ImprovisedCabinetry {
 
     /* Theatre Counter ------------------------------------------ */
     recipe ICMakeCabinetTheater1 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -25,8 +25,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetTheater2 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -45,8 +45,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetTheater3 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,

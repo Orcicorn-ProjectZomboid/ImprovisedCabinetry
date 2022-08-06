@@ -5,8 +5,8 @@ module ImprovisedCabinetry {
 
     /* Trailer */
     recipe ICMakeCabinetTrailer1 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -24,8 +24,8 @@ module ImprovisedCabinetry {
 
     /* Trailer float */
     recipe ICMakeCabinetTrailer2 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue,
         Nails=4,
@@ -43,8 +43,8 @@ module ImprovisedCabinetry {
 
     /* trailer with fridge */
     recipe ICMakeCabinetTrailer3 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,

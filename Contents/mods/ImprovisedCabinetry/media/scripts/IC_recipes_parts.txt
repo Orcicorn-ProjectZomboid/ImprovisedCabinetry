@@ -4,7 +4,7 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeWoodPanel {
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue,
         Result: ImprovisedCabinetry.WoodPanel,
@@ -19,7 +19,7 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeSmallHinge {
-        keep Saw,
+        keep [Recipe.GetItemTypes.Saw],
         Hinge,
         Result: ImprovisedCabinetry.SmallHinge=2,
         Category: Cabinets,

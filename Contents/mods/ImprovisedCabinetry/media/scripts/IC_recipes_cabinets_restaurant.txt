@@ -5,8 +5,8 @@ module ImprovisedCabinetry {
 
     /* Diner ---------------------------------------------------- */
     recipe ICMakeCabinetRestaurant1 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -25,8 +25,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetRestaurant1Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -46,8 +46,8 @@ module ImprovisedCabinetry {
 
     /* Pie Restaurant -------------------------------------------- */
     recipe ICMakeCabinetRestaurant2 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -64,8 +64,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetRestaurant2Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -83,8 +83,8 @@ module ImprovisedCabinetry {
 
     /* Pizza Whirled -------------------------------------------- */
     recipe ICMakeCabinetRestaurant3 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -104,8 +104,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetRestaurant3Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -126,8 +126,8 @@ module ImprovisedCabinetry {
 
     /* Seahorse Coffee ------------------------------------------ */
     recipe ICMakeCabinetRestaurant4 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -147,8 +147,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetRestaurant4Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -168,8 +168,8 @@ module ImprovisedCabinetry {
 
     /* Spiffo's ------------------------------------------------- */
     recipe ICMakeCabinetRestaurant5 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -188,8 +188,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetRestaurant5Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,

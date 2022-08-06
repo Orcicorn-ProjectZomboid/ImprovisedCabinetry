@@ -5,8 +5,8 @@ module ImprovisedCabinetry {
 
     /* Fossoil -------------------------------------------------- */
     recipe ICMakeCabinetShop1 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -24,8 +24,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetShop1Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -44,8 +44,8 @@ module ImprovisedCabinetry {
 
     /* Gas2Go --------------------------------------------------- */
     recipe ICMakeCabinetShop2 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -63,8 +63,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetShop2Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -83,8 +83,8 @@ module ImprovisedCabinetry {
 
     /* Generic Shop --------------------------------------------- */
     recipe ICMakeCabinetShop3 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -100,8 +100,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetShop3Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -118,8 +118,8 @@ module ImprovisedCabinetry {
 
     /* Zippee --------------------------------------------------- */
     recipe ICMakeCabinetShop4 {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
@@ -138,8 +138,8 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetShop4Corner {
-        keep Hammer,
-        keep Saw/GardenSaw,
+        keep [Recipe.GetItemTypes.Hammer],
+        keep [Recipe.GetItemTypes.Saw],
         Plank=2,
         Woodglue=2,
         Nails=8,
