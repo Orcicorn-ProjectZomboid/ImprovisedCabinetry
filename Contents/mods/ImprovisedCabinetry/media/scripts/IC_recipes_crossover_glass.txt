@@ -4,7 +4,7 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetImprovisedGlass1 {
-        keep BlowTorch=12,
+        keep BlowTorch=2,
         WeldingRods=6,
         keep [Recipe.GetItemTypes.WeldingMask],
         MetalPipe=2,
@@ -23,7 +23,7 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetImprovisedGlass1Corner {
-        keep BlowTorch=12,
+        keep BlowTorch=2,
         keep [Recipe.GetItemTypes.WeldingMask],
         WeldingRods=6,
         MetalPipe=2,
@@ -42,7 +42,7 @@ module ImprovisedCabinetry {
     }
 
     recipe ICMakeCabinetImprovisedGlass2 {
-        keep BlowTorch=12,
+        keep BlowTorch=2,
         WeldingRods=6,
         keep [Recipe.GetItemTypes.WeldingMask],
         MetalPipe=2,
