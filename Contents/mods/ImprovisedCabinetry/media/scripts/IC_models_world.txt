@@ -10,7 +10,7 @@ module ImprovisedCabinetry {
     }
 
     model ICMagazine1 {
-        mesh = WorldItems/ICMagazine,
+        mesh = WorldItems/Magazine,
         texture = WorldItems/ICMagazine1,
         scale = 0.4,
     }
