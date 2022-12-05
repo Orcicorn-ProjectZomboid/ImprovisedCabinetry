@@ -8,10 +8,10 @@ module ImprovisedCabinetry {
         Type = Literature,
         DisplayName = Cabinetry Magazine #1,
         Icon = ICMagazine1,
-        TeachedRecipes = ICMakeCabinetShop4;ICMakeCabinetShop4Corner;ICMakeCabinetRestaurant4;ICMakeCabinetRestaurant4Corner;ICMakeCabinetTheater1;ICMakeCabinetTheater2;ICMakeCabinetTheater3;ICMakeCabinetRestaurant1;ICMakeCabinetRestaurant1Corner;ICMakeCabinetRestaurant5;ICMakeCabinetRestaurant5Corner;ICMakeCabinetRestaurant3;ICMakeCabinetRestaurant3Corner,
+        TeachedRecipes = ICMakeCabinetShop4;ICMakeCabinetShop4Corner;ICMakeCabinetRestaurant4;ICMakeCabinetRestaurant4Corner;ICMakeCabinetTheater1;ICMakeCabinetTheater2;ICMakeCabinetTheater3;ICMakeCabinetRestaurant1;ICMakeCabinetRestaurant1Corner;ICMakeCabinetRestaurant5;ICMakeCabinetRestaurant5Corner;ICMakeCabinetRestaurant3;ICMakeCabinetRestaurant3Corner;ICMakeLargeMetalShelves1;ICMakeMetalCabinet1,
         ReplaceOnUse = ICMagazine1,
         DisplayCategory = SkillBook,
-        StaticModel = ICMagazine,
+        StaticModel = Magazine,
         WorldStaticModel = ImprovisedCabinetry.ICMagazine1,
     }
 

@@ -65,4 +65,8 @@ Recipe_FR = {
     /* IC_recipes_parts */
     Recipe_ICMakeWoodPanel = "Créer Panneau de Bois",
     Recipe_ICMakeSmallHinge = "Créer Charnières de Comptoir",
+
+    /* IC_recipes_metalworking */
+    Recipe_ICMakeLargeMetalShelves1 = "Fabriquez de grandes étagères en métal",
+    Recipe_ICMakeMetalCabinet1 = "Faire métal locker",
 }

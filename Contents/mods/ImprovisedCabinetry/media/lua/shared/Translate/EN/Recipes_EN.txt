@@ -66,5 +66,9 @@ Recipe_EN = {
     /* IC_recipes_parts */
     Recipe_ICMakeWoodPanel = "Craft Wood Panel",
     Recipe_ICMakeSmallHinge = "Craft Cabinet Hinges",
+
+    /* IC_recipes_metalworking */
+    Recipe_ICMakeLargeMetalShelves1 = "Make Large Metal Shelves",
+    Recipe_ICMakeMetalCabinet1 = "Make Metal Locker",
  
 }

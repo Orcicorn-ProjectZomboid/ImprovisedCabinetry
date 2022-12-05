@@ -65,4 +65,8 @@ Recipe_RU = {
     /* IC_recipes_parts */
     Recipe_ICMakeWoodPanel = "Создать деревянную панель",
     Recipe_ICMakeSmallHinge = "Создать шарниры для шкафа",
+
+    /* IC_recipes_metalworking */
+    Recipe_ICMakeLargeMetalShelves1 = "Сделайте большие металлические полки",
+    Recipe_ICMakeMetalCabinet1 = "Изготовление металлического шкафчика",
 }

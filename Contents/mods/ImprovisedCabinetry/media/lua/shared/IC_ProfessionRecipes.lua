@@ -21,6 +21,12 @@ function ICAddRecipesToExistingPlayers(id, player)
         player:learnRecipe("ICMakeCabinetRestaurant3Corner");
     end
 
+    -- Metalworkers get metalworking recipes
+    if profession == "metalworker" then
+        player:learnRecipe("ICMakeLargeMetalShelves1");
+        player:learnRecipe("ICMakeMetalCabinet1");
+    end
+
     -- If the Improvised Glass mod is installed, You get Glass Cabinets
     if getActivatedMods():contains("ImprovisedGlass") then
         player:learnRecipe("ICMakeCabinetImprovisedGlass1");

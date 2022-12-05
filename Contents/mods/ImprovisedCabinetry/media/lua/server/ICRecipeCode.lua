@@ -14,3 +14,9 @@ end
 function Recipe.OnGiveXP.ImprovisedCabinetry_XPMetalHinge(recipe, ingredients, result, player)
     player:getXp():AddXP(Perks.MetalWelding, 5)
 end
+
+function Recipe.OnCreate.ImprovisedCabinetry_SteelShelves(items, result, player, selectedItem)
+    local item = InventoryItemFactory.CreateItem("Moveables.Moveable")
+    item:ReadFromWorldSprite("furniture_shelving_01_24");
+    player:getInventory():AddItem(item)
+end

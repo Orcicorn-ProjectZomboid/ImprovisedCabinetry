@@ -31,6 +31,10 @@ CARPENTRY 3
 									ICMakeCabinetShop2Corner			Free
 	Zippee							ICMakeCabinetShop4					Magazine1		Free Carpenter profession
 									ICMakeCabinetShop4Corner			Magazine1		Free Carpenter profession
+
+METALWORKING 3
+	Large Metal Shelves 			ICMakeLargeMetalShelves1 			Magazine1 		Free Metalworker profession
+
 CARPENTRY 4
 	Dark							ICMakeCabinet5						Free
 									ICMakeCabinet5Corner				Free
@@ -40,6 +44,10 @@ CARPENTRY 5
 	Seahorse Coffee					ICMakeCabinetRestaurant4			Magazine1		Free Carpenter profession
 									ICMakeCabinetRestaurant4Corner		Magazine1		Free Carpenter profession
 	Trailer w/Fridge				ICMakeCabinetTrailer3				Free			Requires Electricity 2
+
+METALWORKING 5
+	Metal Cabinet					ICMakeMetalCabinet1 				Magazine1 		Free Metalworker profession
+
 CARPENTRY 6
 	Pie Restaurant					ICMakeCabinetRestaurant2			Free
 									ICMakeCabinetRestaurant2Corner		Free
@@ -59,8 +67,8 @@ METALWORKING 7
 CARPENTRY 8
 	Bar Counter (Black)				ICMakeCabinetBar1					Free
 									ICMakeCabinetBar1Corner				Free
-LEVEL 9
+CARPENTRY 9
 	Pizza Whirled					ICMakeCabinetRestaurant3			Magazine1		Free Carpenter profession
 									ICMakeCabinetRestaurant3Counter		Magazine1		Free Carpenter profession
-LEVEL 10
+CARPENTRY 10
 	No Recipes ATM
