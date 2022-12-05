@@ -20,6 +20,7 @@ description=
 description=[h1]Profession Additions[/h1]
 description=[list]
 description=  [*] Carpenters are automatically granted all the cabinetry recipes
+description=  [*] Metalworkers are automatically granted metalworking recipes
 description=  [*] All other professions will need the Magazine to learn industrial cabinets
 description=[/list]
 description=
@@ -41,7 +42,7 @@ description=Improvised Cabinetry is open-source and published on [url=https://gi
 description=
 description=[h1]Tested and Released[/h1]
 description=[list]
-description=  [*] Last tested in 41.71
+description=  [*] Last tested in 41.78
 description=  [*] Works in Single Player and Multiplayer
 description=  [*] Safe to add to existing worlds (May need to spawn the magazine)
 description=[/list]
